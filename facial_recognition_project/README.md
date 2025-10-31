@@ -1,4 +1,9 @@
-# Face Recognition Project
+# Face Recognition Project in Emerging Technologies in CpE
+Steve Villa and Lovely Nacional
+BSCpE 4A
+
+Submitted to: Prof. Ador Utulo
+
 
 A comprehensive face recognition system built with Python, InsightFace, and OpenCV that demonstrates end-to-end facial recognition capabilities with an interactive interface.
 
