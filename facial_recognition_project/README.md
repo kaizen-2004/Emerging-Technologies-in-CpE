@@ -72,3 +72,8 @@ The system achieves:
 - **Real-time recognition** on CPU
 - **10+ persons** with 30+ embeddings each
 - **Automatic data augmentation** (10x dataset expansion)
+
+## Interface
+
+<img width="1360" height="758" alt="image" src="https://github.com/user-attachments/assets/671d8217-ab75-4bef-b284-c74cf144a1f4" />
+
