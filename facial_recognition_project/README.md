@@ -66,5 +66,8 @@ The system achieves:
 
 ## Interface
 
-<img width="1360" height="758" alt="image" src="https://github.com/user-attachments/assets/671d8217-ab75-4bef-b284-c74cf144a1f4" />
+<img width="1920" height="1079" alt="image" src="https://github.com/user-attachments/assets/51f8306d-7113-4062-9566-4e21c60d4f63" />
+
+## Face Collage
+<img width="505" height="999" alt="image" src="https://github.com/user-attachments/assets/9d529185-f4b8-4651-825c-3ef5994cebe0" />
 
