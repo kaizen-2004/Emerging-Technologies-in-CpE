@@ -1,8 +1,14 @@
-# Face Recognition Project
+# Face Recognition Project in Emerging Technologies in CpE
+
+## **Steve Villa and Lovely Nacional**
+## **BSCpE 4A**
+
+## **Submitted to: Prof. Ador Utulo**
+
 
 A comprehensive face recognition system built with Python, InsightFace, and OpenCV that demonstrates end-to-end facial recognition capabilities with an interactive interface.
 
-## 🚀 Features
+##  Features
 
 - **Face Detection & Recognition**: Uses InsightFace for state-of-the-art face detection and recognition
 - **Interactive Display**: Real-time recognition with mouse hover functionality
@@ -11,7 +17,7 @@ A comprehensive face recognition system built with Python, InsightFace, and Open
 - **Adjustable Threshold**: Fine-tune recognition sensitivity
 - **Resizable Windows**: Flexible interface that adapts to user preferences
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 facial_recognition_project/
@@ -25,7 +31,7 @@ facial_recognition_project/
 └── detection_examples/                  # Sample detection outputs
 ```
 
-## 🛠️ Installation & Setup
+##  Installation & Setup
 
 1. **Install dependencies:**
 ```bash
@@ -47,7 +53,7 @@ python train_model.py
 python interactive.py
 ```
 
-## 🎮 Usage
+##  Usage
 
 ### Interactive Display Controls:
 - **Mouse Hover**: See real-time recognition on thumbnails
@@ -59,10 +65,15 @@ python interactive.py
 - **'q' Key**: Quit application
 
 
-## 📊 Performance
+##  Performance
 
 The system achieves:
 - **90%+ accuracy** with proper training data
 - **Real-time recognition** on CPU
 - **10+ persons** with 30+ embeddings each
 - **Automatic data augmentation** (10x dataset expansion)
+
+## Interface
+
+<img width="1360" height="758" alt="image" src="https://github.com/user-attachments/assets/671d8217-ab75-4bef-b284-c74cf144a1f4" />
+
