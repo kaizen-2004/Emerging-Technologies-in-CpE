@@ -16,7 +16,7 @@ class EnhancedInteractiveFaceDisplay:
         print("=== Creating Enhanced Interactive Collage from ORIGINAL Images ===")
         
         base_dir = Path("/home/steve/Python/Emerging-Technologies-in-CpE/facial_recognition_project")
-        original_path = base_dir / "dataset_processed" / "original_annotated"
+        original_path = base_dir / "dataset_processed" / "augmented"
         
         all_images = []
         image_info = []
