@@ -35,23 +35,14 @@ facial_recognition_project/
 
 1. **Install dependencies:**
 ```bash
-pip install opencv-python insightface albumentations numpy scikit-learn pillow
+pip install -r requirements.txt
 ```
 
-2. **Prepare dataset:**
-   - Organize images in `dataset_raw/` with subfolders for each person
-   - Run standardization and augmentation pipeline
-   - Annotate faces using LabelImg
-
-3. **Train the model:**
-```bash
-python train_model.py
+2. **Running the program:**
+```text
+Open the main.ipynb and follow the instructions inside
 ```
 
-4. **Launch interactive display:**
-```bash
-python interactive.py
-```
 
 ##  Usage
 
@@ -70,10 +61,13 @@ python interactive.py
 The system achieves:
 - **90%+ accuracy** with proper training data
 - **Real-time recognition** on CPU
-- **10+ persons** with 30+ embeddings each
-- **Automatic data augmentation** (10x dataset expansion)
+- **10 persons** with 5 embeddings each
+- **Automatic data augmentation** (10x dataset expansion
 
 ## Interface
 
-<img width="1360" height="758" alt="image" src="https://github.com/user-attachments/assets/671d8217-ab75-4bef-b284-c74cf144a1f4" />
+<img width="1920" height="1079" alt="image" src="https://github.com/user-attachments/assets/51f8306d-7113-4062-9566-4e21c60d4f63" />
+
+## Face Collage
+<img width="505" height="999" alt="image" src="https://github.com/user-attachments/assets/9d529185-f4b8-4651-825c-3ef5994cebe0" />
 
